@@ -1,0 +1,46 @@
+header {
+    margin: 15px;
+}
+
+
+input {
+    padding: 10px 15px;
+    border: 1.5px solid rebeccapurple;
+}
+
+[type="text"] {
+    padding: 15px 20px;
+    border: 1px solid;
+    margin: 10px 15px;
+    border-radius: 5px;
+    box-sizing: content-box;
+}
+
+[type=" email"] {
+    padding: 1rem 1.2rem;
+    border: 1px solid;
+    margin: 10px 15px;
+    border-radius: 5px;
+    box-sizing: content-box;
+}
+
+button {
+    padding: 0.8rem 1.5rem;
+    background-color: gainsboro;
+    color: black;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+table {
+    border-collapse: collapse;
+}
+
+tr,
+th,
+td {
+    border: 1px solid black;
+    padding: 1rem;
+    text-align: left;
+}
